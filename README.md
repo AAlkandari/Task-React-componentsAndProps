@@ -7,7 +7,7 @@ Fork this repo and clone it then start working your magic
 To make things easier 4 data files are provided, you can use any of them 🙏🏼
 
 ### 1. Create a React project with a theme of a your choice
-`npx create-react-app <app-name>`
+`npx create-react-app app`
 then go inside the project `cd <app-name>`
 then start it `npm start`
 ### 2. Prepare VScode for React
